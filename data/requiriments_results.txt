@@ -1,0 +1,33 @@
+Python:62
+SQL:94
+Excel:61
+ R :9
+modelagem de dados:15
+probabilidade:0
+estatística:58
+Machine Learning:40
+Power BI:48
+Inglês:62
+ETL:33
+Linux:15
+MongoDB:5
+Elasticsearch:0
+AWS:41
+Tableau:18
+Oracle:21
+Scala:4
+SAS:22
+Kagle:0
+Shiny:0
+GCP:12
+MLOP:0
+Data Bricks:2
+Spark:18
+Pentaho:2
+ C :3
+C++:4
+NLP:3
+Redshift:4
+VBA:7
+Azure:30
+Data Science:18

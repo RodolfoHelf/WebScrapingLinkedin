@@ -1,0 +1,40 @@
+Python:54
+SQL:71
+Excel:54
+Google sheets:0
+ R :9
+modelagem de dados:16
+Probabilidade e estatística :0
+Machine Learning:31
+Power BI:44
+Visualização de dados:1
+Analise de dados:0
+Ingles:1
+ETL:30
+Linux:19
+MongoDB:8
+Elasticsearch:0
+AWS:35
+Metodologias ágeis:0
+Qlick sense:0
+qlick view:0
+Tableu:0
+google analytics:0
+Oracle:20
+Scala:3
+SAS:21
+Github:0
+R markdown:0
+Shiny:1
+GCP:9
+MLOPs:0
+Data Bricks:2
+Spark:18
+Pentaho:1
+ C :2
+C++:3
+NLP:3
+Redshift:3
+VBA:8
+Azure:20
+Data Science:16
